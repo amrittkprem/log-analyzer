@@ -1,4 +1,4 @@
-# Log Analyzer
+# Log Analyzer V1
 
 A Python-based log analyzer for detecting brute-force login attempts
 in authentication logs.
